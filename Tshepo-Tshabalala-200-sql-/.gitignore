@@ -1,0 +1,8 @@
+*
+
+!dockerfile/
+!create_script.sql
+!docker-compose.yaml
+!src/
+!create_db.sh
+!.gitignore
