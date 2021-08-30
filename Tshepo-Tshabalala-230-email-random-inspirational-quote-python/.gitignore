@@ -1,0 +1,6 @@
+smtp_secrets.sh
+quotes.txt
+*.egg-info/
+random_venv
+__pycache__
+.pytest_cache
